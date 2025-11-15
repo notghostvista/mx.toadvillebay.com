@@ -202,7 +202,7 @@ body.landing::after {
 }
 
 .brand-text::before {
-    content: 'CA';
+    content: 'MX';
     position: absolute;
     top: -0.5em;
     right: -2em;
